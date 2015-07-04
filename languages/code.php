@@ -12,7 +12,9 @@ $languages = array(
     "sv" => "swedish",
     "cn" => "简体中文",
     "pl" => "polish",
+    "cz" => "česky",
     "sk" => "slovak",
-    "sr" => "српски"
+    "sr" => "српски",
+    "bg" => "Български"
 );
 ?>
